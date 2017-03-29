@@ -1,2 +1,1 @@
-# InData-Labs-Contest
-InData-Labs-Contest in Machine Learning
+# Likes prediction model for twitter's posts
